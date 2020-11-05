@@ -1,0 +1,38 @@
+
+
+.contact-wrapper{
+    display: flex;
+    height: 254px;
+    align-items: center;
+}
+
+
+.contact-l{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    height: 100%;
+    p{
+        width: 50%;
+        
+        margin: 20px;
+    }
+}
+
+.contact-details-wrapper{
+    display: flex;
+}
+
+.contact-details{
+
+    font-weight: bold;
+    padding: 20px;
+    margin: 8px;
+
+    h5{
+        color: #969696;
+        text-transform: uppercase;
+        letter-spacing: 2.5;
+    }
+}
